@@ -7,6 +7,35 @@
                 <p>Genera y transfiere conocimientos, productos y servicios históricos culturales para preservar y promover el patrimonio histórico cultural. Así como formula, gerencia y ejecuta proyectos de investigación. </p>
                 <h2 class="text-red">Visión</h2>
                 <p>La Casa de la Nacionalidad Cubana en su estructura fortalece su papel rector y el nivel de integración con los organismos, organizaciones y otros grupos de las sociales de la provincia. Con la implementación de una política de investigación y difusión histórico, social y cultural, la preservación del patrimonio histórico que atesora, logra que los investigadores y la población del territorio obtengan un mayor grado de apropiación y defensa de los valores identitarios de la región y el país. </p>
+
+                <h2 class="text-red">Instituciones colaboradoras</h2>
+                    <ul>
+                        <li class="mb-10">Universidad de Granma.</li>
+                        <li class="mb-10">Instituto de Investigación para la Cultura Cubana Juan Marinello.</li>
+                        <li class="mb-10">Consejo Provincial de las Ciencias Sociales y Humanísticas en Granma.</li>
+                        <li class="mb-10">Instituto Cubano de Antropología (ICAM).</li>
+                        <li class="mb-10">Instituto de Historia de Cuba (IHC).</li>
+                        <li class="mb-10">Academia de Historia de Cuba.</li>
+                        <li class="mb-10">Oficina del Historiador de la Ciudad de Bayamo.</li>
+                        <li class="mb-10">Universidad de Granma.</li>
+                        <li class="mb-10">CESCA Universidad de Oriente.</li>
+                        <li class="mb-10">Centro de Estudio sobre cultura e identidad. Universidad de Holguín.</li>
+                        <li class="mb-10">Biblioteca Provincial 1868.</li>
+                        <li class="mb-10">Centro de Superación para la Cultura en Granma.</li>
+                        <li class="mb-10">Consejo Provincial de las Artes Escénicas.</li>
+                        <li class="mb-10">Unión de Historiadores de Cuba, filial Granma.</li>
+                        <li class="mb-10">Sociedad Cultural José Martí, filial Granma
+                        <li class="mb-10">Escuela Profesional de Arte  Manuel Muñoz Cedeño.</li>
+                        <li class="mb-10">Centro Provincial del Libro y la Literatura Granma.</li>
+                        <li class="mb-10">Dirección Provincial de Educación en Granma.</li>
+                        <li class="mb-10">Dirección Provincial de Cultura en Granma.</li>
+                        <li class="mb-10">Asociación Hermanos Saiz (AHS) Granma.</li>
+                        <li class="mb-10">Centro de Comunicación Cultural Ventana Sur.</li>
+                        <li class="mb-10">AsociaciónCubana de Comunicadores Sociales, filial Granma.</li>
+                        <li class="mb-10">Hotel Sierra Maestra.</li>
+                        <li class="mb-10">Dirección Territorial Havana Club Santiago de Cuba.</li>
+                        <li class="mb-10">Agencia de Turismo Cultural Paradiso.</li>
+                    </ul>
             </div>
         </vue-scrollbar>
     </div>
