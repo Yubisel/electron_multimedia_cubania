@@ -35,6 +35,11 @@ p{
 .text-bold{
     font-weight: bold;
 }
+
+
+.hidden{
+    display: none;
+}
 /*------------------------------------- scrollbar style -----------------------------------------*/
 .my-scrollbar {
   width: 100%;

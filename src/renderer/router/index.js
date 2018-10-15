@@ -4,9 +4,9 @@ import Router from 'vue-router';
 //paginas de la navegacion
 import Resena from '@/components/pages/Resena';
 import Ponencias from '@/components/pages/Ponencias/Ponencias';
-import ComiteDeHonor from '@/components/pages/ComiteDeHonor';
-import ComiteOrganizador from '@/components/pages/ComiteOrganizador';
-import Convocatorias from '@/components/pages/Convocatorias/Convocatorias';
+import Organizadores from '@/components/pages/Organizadores';
+import Convocatorias from '@/components/pages/Convocatorias';
+import ProgramaCientifico from '@/components/pages/ProgramaCientifico';
 import DatosGenerales from '@/components/pages/DatosGenerales';
 
 Vue.use(Router);
@@ -28,17 +28,17 @@ export default new Router({
             name: 'ponencias',
             component: Ponencias
         },{
-            path: '/comite-honor',
-            name: 'comite-honor',
-            component: ComiteDeHonor
-        },{
-            path: '/comite-organizador',
-            name: 'comite-organizador',
-            component: ComiteOrganizador
+            path: '/organizadores',
+            name: 'organizadores',
+            component: Organizadores
         },{
             path: '/convocatorias',
             name: 'convocatorias',
             component: Convocatorias
+        },{
+            path: '/programa-cientifico',
+            name: 'programa-cientifico',
+            component: ProgramaCientifico
         },{
             path: '/datos-generales',
             name: 'datos-generales',

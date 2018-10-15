@@ -8,14 +8,14 @@
             <router-link :to="{ name: 'ponencias' }">
                 Ponencias
             </router-link>
-            <router-link :to="{ name: 'comite-honor' }">
-                Comité de honor
-            </router-link>
-            <router-link :to="{ name: 'comite-organizador' }">
-                Comité organizador
+            <router-link :to="{ name: 'organizadores' }">
+                Organizadores
             </router-link>
             <router-link :to="{ name: 'convocatorias' }">
                 Convocatorias
+            </router-link>
+            <router-link :to="{ name: 'programa-cientifico' }">
+                Programa Científico
             </router-link>
             <router-link :to="{ name: 'datos-generales' }" class="general-data">
                 <img class="item-active" src="~@/assets/images/header/menu_extra_activo.png">
