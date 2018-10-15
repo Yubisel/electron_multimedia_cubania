@@ -1,5 +1,6 @@
 <template>
     <div id="app">
+        <img id="logo" src="~@/assets/images/logo.png" alt="cubania">
         <header>
             <system-menu></system-menu>
         </header>
@@ -36,6 +37,11 @@
     }
     #app{
         height: 100%;
+        #logo{
+            position: absolute;
+            left: -110px;
+            top: 20px;
+        }
     }
     header{
         height: 100px;

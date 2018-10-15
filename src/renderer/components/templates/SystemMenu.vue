@@ -1,7 +1,6 @@
 <template>
     <div class="menu-container">
         <nav class="main-menu">
-                <img id="logo" src="~@/assets/images/header/logo.png" alt="cubania">
             <router-link :to="{ name: 'resena' }">
                 Breve reseña
             </router-link>
@@ -47,6 +46,19 @@
             }
         *{
             vertical-align: middle;
+        }
+    }
+
+
+    @media (max-width: 1300px){
+        #app img#logo{
+            width: 300px;
+            height: auto;
+        }
+        nav.main-menu {
+            a {
+                font-size: 10px;
+            }
         }
     }
 </style>

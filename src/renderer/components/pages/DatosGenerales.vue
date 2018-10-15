@@ -12,7 +12,7 @@
                 </li>
                 </ul>
                 <div :class="{'hidden' : c_menu!=0 }">
-                    <img  src="~@/assets/images/pages/casa_nac_cub.png" alt="cubania">
+                    <img  src="~@/assets/images/pages/casa_nac_cub.png" alt="cubania" style="margin: 0 auto; display: block;">
                     <h2 class="text-red">Misión</h2>
                     <p>La Casa de la Nacionalidad Cubana, tiene como misión la investigación, promoción y divulgación de las raíces históricas, los procesos sociales y culturales que intervienen en la conformación del proceso formativo de la nacionalidad y nación cubanas. </p>
                     <p>Genera y transfiere conocimientos, productos y servicios históricos culturales para preservar y promover el patrimonio histórico cultural. Así como formula, gerencia y ejecuta proyectos de investigación. </p>
