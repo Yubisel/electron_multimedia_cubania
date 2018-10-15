@@ -10,8 +10,13 @@ import Convocatorias from '@/components/pages/Convocatorias/Convocatorias';
 import DatosGenerales from '@/components/pages/DatosGenerales';
 
 Vue.use(Router);
-
+require("@/assets/css/app.css")
 require('@/config/config')
+
+//tomados y personalizados
+import VueScrollbar from "@/components/vue-scrollbar/vue-scrollbar"
+
+Vue.component('vue-scrollbar', VueScrollbar);
 
 export default new Router({
     routes: [{
