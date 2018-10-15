@@ -27,6 +27,14 @@ h2 {
 p{
   margin-bottom: 20px;
 }
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.text-bold{
+    font-weight: bold;
+}
 /*------------------------------------- scrollbar style -----------------------------------------*/
 .my-scrollbar {
   width: 100%;

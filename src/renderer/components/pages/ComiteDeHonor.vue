@@ -11,7 +11,7 @@
                     </li>
                     <li>
                         <h3 class="text-red">Manuel Santiago Sobrino Martínez</h3>
-                        Presidente de la Asamblea Provincial del Poder Popular en Granma.</em>
+                        <em>Presidente de la Asamblea Provincial del Poder Popular en Granma.</em>
                         <hr>
                     </li>
                     <li>
