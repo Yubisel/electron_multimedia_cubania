@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+import vGallery from 'v-gallery';
 
 //paginas de la navegacion
 import Resena from '@/components/pages/Resena';
@@ -10,11 +11,12 @@ import ProgramaCientifico from '@/components/pages/ProgramaCientifico';
 import DatosGenerales from '@/components/pages/DatosGenerales';
 
 Vue.use(Router);
-require("@/assets/css/app.css")
-require('@/config/config')
+Vue.use(vGallery);
+require("@/assets/css/app.css");
+require('@/config/config');
 
 //tomados y personalizados
-import VueScrollbar from "@/components/vue-scrollbar/vue-scrollbar"
+import VueScrollbar from "@/components/vue-scrollbar/vue-scrollbar";
 
 Vue.component('vue-scrollbar', VueScrollbar);
 

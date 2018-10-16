@@ -66,15 +66,19 @@
                         </li>
                     </ul>
                     <h2 class="text-red">Invitado de Honor</h2>
-                    <h3 class="text-red">Dr.C Eduardo Torres Cuevas</h3>
-                    <em>Presidente de la Academiade Historia de Cuba.Académico, historiador y pedagogo. Miembro de Número de la Academia Cubana de la Lengua. Profesor Titular y Doctor en Ciencias Históricas. Premio Nacional de Historia, Premio Félix Varela. Presidente de la Casa de Altos Estudios Don Fernando Ortiz. Director de la revista Debates Americanos y de la editorial Imagen Contemporánea. Miembro de la Unión Nacional de Historiadores de Cuba, de la Asociación de Historiadores del Caribe, de la Unión Nacional de Escritores y Artistas de Cuba y de la Academia de Ciencias de Nueva York. Director de la Biblioteca Nacional José Martí. </em>
-                    <hr>
+                    <ul class="comite">
+                        <li>
+                            <h3 class="text-red">Dr.C Eduardo Torres Cuevas</h3>
+                            <em>Presidente de la Academia de Historia de Cuba.</em>
+                            <hr>
+                        </li>
+                    </ul>
                 </div>
                 <div :class="{'hidden' : c_menu!=1 }">
                     <h2 class="text-red">Comité Organizador</h2>
                     <ul class="comite">
                         <li>
-                            <h3>Presidenta: <span class="text-red">M. Sc. DamianaNiurka Pérez Figueredo</span></h3>
+                            <h3>Presidenta: <span class="text-red">M. Sc. Damiana Niurka Pérez Figueredo</span></h3>
                             <em>Directora de la Casa de la Nacionalidad Cubana.</em>
                             <hr>
                         </li>

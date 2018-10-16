@@ -75,12 +75,12 @@
     }
     footer{
         height: 30px;
-        background: red;
         color: #ffffff;
         text-align: center;
         padding-top: 10px;
         position: relative;
         font-size: .82em;
+        background: url("assets/images/footer/background.png") no-repeat scroll 50% 50%;
     }
 
     .vue-scrollbar__scrollbar-vertical .scrollbar{

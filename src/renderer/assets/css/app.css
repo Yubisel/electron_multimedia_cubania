@@ -111,3 +111,40 @@ ul li{
 .vue-scrollbar__scrollbar-vertical, .vue-scrollbar__scrollbar-vertical:hover{
   background: #342380;
 }
+
+
+/*------------------------------------- gallery style -----------------------------------------*/
+.v-gallery .light-gallery a {
+  width: calc(25% - 10px);
+}
+
+.v-gallery .light-gallery a .image-container img {
+  max-height: 160px;
+  max-width: 100%;
+  width: auto !important;
+  margin: 0 auto;
+}
+
+.v-gallery .light-gallery a .image-container {
+  display: flex !important;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  background-color: #ffffff !important;
+  width: 100%;
+  text-align: center;
+  height: 160px !important;
+}
+
+.blueimp-gallery>.slides>.slide>.slide-content {
+  max-height: calc(100% - 120px) !important;
+}
+@media (max-width: 1024px){
+  .v-gallery .light-gallery a .image-container img {
+    max-height: 100px;
+  }
+
+  .v-gallery .light-gallery a .image-container {
+    height: 100px !important;
+  }
+}

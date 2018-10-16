@@ -20,11 +20,11 @@
                     <p>La Casa de la Nacionalidad Cubana en su estructura fortalece su papel rector y el nivel de integración con los organismos, organizaciones y otros grupos de las sociales de la provincia. Con la implementación de una política de investigación y difusión histórico, social y cultural, la preservación del patrimonio histórico que atesora, logra que los investigadores y la población del territorio obtengan un mayor grado de apropiación y defensa de los valores identitarios de la región y el país. </p>
 
                     <h2 class="text-red">Datos de contacto</h2>
-                        <ul>
-                            <li>E-mail: cnc@crisol.cult.cu</li>
-                            <li>Sitio web: www.crisol.cult.cu</li>
-                            <li>Teléfono: 23 42 4833</li>
-                        </ul>
+                    <ul>
+                        <li>E-mail: cnc@crisol.cult.cu</li>
+                        <li>Sitio web: www.crisol.cult.cu</li>
+                        <li>Teléfono: 23 42 4833</li>
+                    </ul>
 
                 </div>
                 <div :class="{'hidden' : c_menu!=1 }">
@@ -59,6 +59,7 @@
                 </div>
                 <div :class="{'hidden' : c_menu!=2 }">
                     <h2 class="text-red">Fotos del Crisol</h2>
+                    <v-gallery :images="list" :caption="false" ></v-gallery>
                 </div>
             </div>
         </vue-scrollbar>
@@ -70,6 +71,20 @@
         data(){
             return {
                 c_menu: 0,
+                list: [
+                    {title:'',url:'static/images/pages/datos-generales/dg_001.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_002.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_003.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_004.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_005.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_006.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_007.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_008.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_009.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_010.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_011.jpg'},
+                    {title:'',url:'static/images/pages/datos-generales/dg_012.jpg'},
+                ]
             }
         }
     }
