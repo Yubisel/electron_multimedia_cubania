@@ -5,7 +5,9 @@
             <system-menu></system-menu>
         </header>
         <main>
-            <router-view></router-view>
+            <transition name="fade" mode="out-in">
+                <router-view></router-view>
+            </transition>
         </main>
         <footer>
             <system-footer></system-footer>
@@ -86,4 +88,28 @@
     .vue-scrollbar__scrollbar-vertical .scrollbar{
         background: url("assets/images/icon_scroll.png") no-repeat;
     }
+
+    .fade-enter-active,
+    .fade-leave-active {
+        transition-duration: 0.3s;
+        transition-property: opacity;
+        transition-timing-function: ease;
+    }
+
+    .fade-enter,
+    .fade-leave-active {
+        opacity: 0
+    }
+
+    /*.slide-fade-enter-active {*/
+        /*transition: all .3s ease;*/
+    /*}*/
+    /*.slide-fade-leave-active {*/
+        /*transition: all .8s cubic-bezier(1.0, 0.5, 0.8, 1.0);*/
+    /*}*/
+    /*.slide-fade-enter, .slide-fade-leave-to*/
+        /*!* .slide-fade-leave-active below version 2.1.8 *! {*/
+        /*transform: translateX(10px);*/
+        /*opacity: 0;*/
+    /*}*/
 </style>
