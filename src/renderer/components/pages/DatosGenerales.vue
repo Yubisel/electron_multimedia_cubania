@@ -30,11 +30,11 @@
                     <div class="logos-container">
                         <div class="left">
                             <h4 class="text-red">ISSN</h4>
-                            <img  src="~@/assets/images/logo_editorial.jpg" alt="editorial" style="margin: 0 auto;">
+                            <img  src="~@/assets/images/issn.jpg" alt="editorial" style="margin: 0 auto;">
                         </div>
                         <div class="right">
                             <h4 class="text-red">Ediciones Bayamo</h4>
-                            <img  src="~@/assets/images/issn.jpg" alt="editorial" style="margin: 0 auto;">
+                            <img  src="~@/assets/images/logo_editorial.jpg" alt="editorial" style="margin: 0 auto;">
                         </div>
                     </div>
 
