@@ -1,4 +1,4 @@
 import Vue from 'vue'
 
-Vue.prototype.$appName = 'Cubanía'
-Vue.prototype.$appFooter = 'Casa de la Nacionalidad Cubana. Granma. Cuba 2018 ©'
+Vue.prototype.$appName = 'Libro Memorias del Crisol, Volumen VIII.'
+Vue.prototype.$appFooter = 'Libro Memorias del Crisol, Volumen VIII. Granma. Cuba 2018 ©'

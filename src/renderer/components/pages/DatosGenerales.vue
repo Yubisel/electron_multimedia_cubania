@@ -26,6 +26,18 @@
                         <li>Teléfono: 23 42 4833</li>
                     </ul>
 
+
+                    <div class="logos-container">
+                        <div class="left">
+                            <h4 class="text-red">ISSN</h4>
+                            <img  src="~@/assets/images/logo_editorial.jpg" alt="editorial" style="margin: 0 auto;">
+                        </div>
+                        <div class="right">
+                            <h4 class="text-red">Ediciones Bayamo</h4>
+                            <img  src="~@/assets/images/issn.jpg" alt="editorial" style="margin: 0 auto;">
+                        </div>
+                    </div>
+
                 </div>
                 <div :class="{'hidden' : c_menu!=1 }">
                     <h2 class="text-red">Instituciones colaboradoras</h2>
@@ -90,6 +102,18 @@
     }
 </script>
 
-<style scoped>
-
+<style lang="scss">
+    .logos-container{
+        margin-top: 20px;
+        .left,
+        .right{
+            display: inline-block;
+            width: 45%;
+            text-align: center;
+            img{
+                height: 80px;
+                width: auto;
+            }
+        }
+    }
 </style>
