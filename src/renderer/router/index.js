@@ -4,7 +4,7 @@ import vGallery from 'v-gallery';
 
 //paginas de la navegacion
 import Resena from '@/components/pages/Resena';
-import Ponencias from '@/components/pages/Ponencias/Ponencias';
+import Ponencias from '@/components/pages/Ponencias';
 import Organizadores from '@/components/pages/Organizadores';
 import Convocatorias from '@/components/pages/Convocatorias';
 import ProgramaCientifico from '@/components/pages/ProgramaCientifico';

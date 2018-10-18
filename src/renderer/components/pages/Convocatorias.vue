@@ -14,8 +14,8 @@
                 <div :class="{'hidden' : c_menu!=0 }">
                     <h2 class="text-red">Convocatoria XXVI Evento Crisol de la Nacionalidad Cubana 2018.</h2>
                     <p>La Casa de la Nacionalidad Cubana convoca a participar en el XXVI Evento Teórico Crisol de la Nacionalidad Cubana que cada año sesiona del 17 al 20 de octubre en la ciudad de Bayamo, provincia Granma. Esta edición estará dedicada a los 150 años del inicio de la Guerra de Independencia y a la interpretación pública del Himno Nacional.  </p>
-                    <p>El tema central versará sobre los <span class="text-red text-bold">Procesos de liberación nacional y los vínculos histórico-culturales de las naciones en Iberoamérica y el Caribe.</span> </p>
-                    <h3>El debate en comisiones se regirá por las siguientes temáticas: </h3>
+                    <p>El tema central versará sobre los <em>Procesos de liberación nacional y los vínculos histórico-culturales de las naciones en Iberoamérica y el Caribe.</em> </p>
+                    <p>El debate en comisiones se regirá por las siguientes temáticas: </p>
                     <ul>
                         <li>1. Perspectiva histórica y contemporánea sobre los estudios de formación nacional.</li>
                         <li>2. Significación histórica, artística, literaria y patrimonial de las gestas independentistas en Cuba, el Caribe e Iberoamérica.</li>
@@ -69,7 +69,7 @@
                         <li>•	Coctel de Bienvenida. </li>
                     </ul>
 
-                    <p>Al margen de estos derechos, los participantes podrán optar por ofertas comerciales con fines turísticos y culturales en cualquier zona de la Isla, haciendo mayor énfasis en los productos turístico-culturales de la provincia Granma, para explorar senderos históricos naturales que conforman los <strong>Parques Nacionales Sierra Maestra y Desembarco del Granma.</strong> </p>
+                    <p>Al margen de estos derechos, los participantes podrán optar por ofertas comerciales con fines turísticos y culturales en cualquier zona de la Isla, haciendo mayor énfasis en los productos turístico-culturales de la provincia Granma, para explorar senderos históricos naturales que conforman los Parques Nacionales Sierra Maestra y Desembarco del Granma. </p>
                     <h2 class="text-red">Para la oferta comercial o Paquete de Viajes: </h2>
                     <p>Debe contactar con nuestro turoperador oficial, la Agencia de Turismo Cultural Paradiso, que pone a su disposición paquetes preferenciales que incluyen boletería, hospedaje, transportación interna, alimentación y opciones culturales pre y post evento. </p>
                     <h2 class="text-red">Para su reserva o más información contacte a: </h2>
@@ -92,8 +92,8 @@
                 <div :class="{'hidden' : c_menu!=1 }">
                     <h2 class="text-red">Convocatoria al XXVII Evento Crisol de la Nacionalidad Cubana 2019</h2>
                     <p>La Casa de la Nacionalidad Cubana convoca a participar en el XXVII Evento Teórico Crisol de la Nacionalidad Cubana que cada año sesiona del 17 al 20 de octubre en la ciudad de Bayamo, provincia Granma. Esta edición estará dedicada al Bicentenario del natalicio de Carlos Manuel de Céspedes, Padre de la Patria, iniciador de las luchas independentistas en Cuba en 1868.  </p>
-                    <p>El tema central versará sobre <span class="text-red text-bold">Los padres fundadores de las naciones en Iberoamérica y el Caribe. </span></p>
-                    <h3>El debate en comisiones se regirá por las siguientes temáticas:  	</h3>
+                    <p>El tema central versará sobre <em>Los padres fundadores de las naciones en Iberoamérica y el Caribe. </em></p>
+                    <p>El debate en comisiones se regirá por las siguientes temáticas:  	</p>
                     <p>Perspectiva histórica y contemporánea sobre los estudios de formación nacional.</p>
                     <ul>
                         <li>1.	Significación histórica, artística, literaria y patrimonial de las Gestas Independentistas en Cuba, el Caribe e Iberoamérica.</li>
@@ -107,7 +107,7 @@
                     <h2 class="text-red">Organización del evento.</h2>
                     <p>El programa científico se desarrollará a través de conferencias centrales, paneles y ponencias. Se solicita la propuesta de conformación de paneles temáticos, así como la sugerencia de diferentes formas de presentación: Documento PDF, Power Point, poster, video u otras. </p>
 
-                    <h3>Los interesados en participar enviarán el resumen de su trabajo en formato digital con un máximo de extensión de 250 palabras en el que contenga los siguientes aspectos: </h3>
+                    <p>Los interesados en participar enviarán el resumen de su trabajo en formato digital con un máximo de extensión de 250 palabras en el que contenga los siguientes aspectos: </p>
                     <ul>
                         <li>•	Objetivo</li>
                         <li>•	Situación actual del tema, resultados y aportes.</li>
@@ -149,7 +149,7 @@
                         <li>•	Cóctel de Bienvenida.</li>
                     </ul>
 
-                    <p>Al margen de estos derechos, los participantes podrán optar por ofertas comerciales con fines turísticos culturales en cualquier zona de la Isla, haciendo mayor énfasis en los productos turístico culturales de la provincia Granma, para explorar senderos históricos naturales que conforman los <strong>Parques Nacionales Sierra Maestra y Desembarco del Granma. </strong></p>
+                    <p>Al margen de estos derechos, los participantes podrán optar por ofertas comerciales con fines turísticos culturales en cualquier zona de la Isla, haciendo mayor énfasis en los productos turístico culturales de la provincia Granma, para explorar senderos históricos naturales que conforman los Parques Nacionales Sierra Maestra y Desembarco del Granma. </p>
                     <h2 class="text-red">Para la oferta comercial o Paquete de Viajes: </h2>
                     <p>Debe contactar con nuestro turoperador oficial, la Agencia de Turismo Cultural Paradiso, que pone a su disposición paquetes preferenciales que incluyen: boletería, hospedaje, transportación interna, alimentación y opciones culturales  pre y post  evento. </p>
                     <h2 class="text-red">Para su reserva o más información contacte a: </h2>
@@ -172,7 +172,7 @@
                     <h2 class="text-red">Notification of the 27th Event of Cuban Nationality </h2>
                     <p>The House of Cuban Nationality officially announces the 27th Theory Event of Cuban Nationality to be held annually from October 17th to 20th in Bayamo, Granma. This year it will be dedicated to the 200th Anniversary of the birth of motherland´s founding father, Carlos Manuel de Céspedes, who was the leader of the independence fight begun in 1868. It also announces the 4th Workshop on “Formation of Cuban beings and their connection with the Caribbean, regarding identity, history and culture”. It will be aimed at debate and reflection about transcultural issues, taking into consideration pre-Columbian times and national formation processes in Iberoamerica and the Caribbean. This one will be under the auspices of Granma´s Board of Social  and Humanistic Sciences.</p>
 
-                    <p>Main theme will be related to <span class="text-red text-bold">Founding fathers of Iberoamerica and the Caribbean.</span> </p>
+                    <p>Main theme will be related to <em>Founding fathers of Iberoamerica and the Caribbean.</em> </p>
                     <h2 class="text-red">Topics for debate: </h2>
                     <ul>
                         <li>1.	Historical and contemporary perspective on national formation studies.</li>

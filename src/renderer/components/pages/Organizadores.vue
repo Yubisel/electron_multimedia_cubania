@@ -12,6 +12,15 @@
                 </li>
                 </ul>
                 <div :class="{'hidden' : c_menu!=0 }">
+                    <h2 class="text-red">Invitado de Honor</h2>
+                    <ul class="comite">
+                        <li>
+                            <h3 class="text-red">Dr.C Eduardo Torres Cuevas</h3>
+                            <em>Presidente de la Academia de Historia de Cuba.</em>
+                            <hr>
+                        </li>
+                    </ul>
+
                     <h2 class="text-red">Comité de Honor</h2>
                     <ul class="comite">
                         <li>
@@ -65,14 +74,6 @@
                             <hr>
                         </li>
                     </ul>
-                    <h2 class="text-red">Invitado de Honor</h2>
-                    <ul class="comite">
-                        <li>
-                            <h3 class="text-red">Dr.C Eduardo Torres Cuevas</h3>
-                            <em>Presidente de la Academia de Historia de Cuba.</em>
-                            <hr>
-                        </li>
-                    </ul>
                 </div>
                 <div :class="{'hidden' : c_menu!=1 }">
                     <h2 class="text-red">Comité Organizador</h2>
@@ -83,8 +84,8 @@
                             <hr>
                         </li>
                         <li>
-                            <h3>Vicepresidente: <span class="text-red">M. Sc.Reynier Espinosa García</span></h3>
-                            <em>Jefe del departamento de Investigación de la Casa de la Nacionalidad Cubana.</em>
+                            <h3>Vicepresidente: <span class="text-red">M. Sc. Reynier Espinosa García</span></h3>
+                            <em>Jefe del Departamento de Investigación de la Casa de la Nacionalidad Cubana.</em>
                             <hr>
                         </li>
                         <li>

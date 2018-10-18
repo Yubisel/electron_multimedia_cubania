@@ -17,7 +17,7 @@
                 <ul>
                     <li>Panel inaugural</li>
                     <li><span class="text-bold">Título:</span> El estallido insurreccional cubano, condicionamiento y proyecto de nación. </li>
-                    <li><span class="text-bold">Panelistas: </span> Dr. C. Eduardo Torres Cuevas, Dr. C. Yoel Cordoví y M. Sc. Ludín Fonseca García. </li>
+                    <li><span class="text-bold">Panelistas: </span> Dr. C. Eduardo Torres Cuevas, Dr. C. Olga Portuondo Zúñiga, Historiadora de la Ciudad de Santiago de Cuba. </li>
                     <li><span class="text-bold">Moderadora: </span> M. Sc. Damiana Pérez Figueredo</li>
                     <li><span class="text-bold">Hora: </span> 2:00 pm. </li>
                     <li><span class="text-bold">Lugar: </span> Salón de Conferencias. Hotel Sierra Maestra. </li>
