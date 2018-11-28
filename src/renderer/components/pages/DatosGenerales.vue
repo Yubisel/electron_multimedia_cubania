@@ -13,10 +13,17 @@
                 </ul>
                 <div :class="{'hidden' : c_menu!=0 }">
                     <img  src="~@/assets/images/pages/casa_nac_cub.png" alt="cubania" style="margin: 0 auto; display: block;">
+
+
                     <h2 class="text-red">Misión</h2>
-                    <p>La Casa de la Nacionalidad Cubana, tiene como misión la investigación, promoción y divulgación de las raíces históricas, los procesos sociales y culturales que intervienen en la conformación del proceso de formación y desarrollo de la nacionalidad y nación cubanas. </p>
+                    <p>
+                        La investigación, promoción y divulgación de las raíces históricas, los procesos sociales y culturales que intervienen en la conformación del proceso formativo de la nacionalidad y nación cubanas. Genera y transfiere conocimientos, productos y servicios históricos culturales para preservar y promover el patrimonio histórico cultural. Así como formula, gerencia y ejecuta proyectos de investigación.
+                    </p>
+
                     <h2 class="text-red">Visión</h2>
-                    <p>La Casa de la Nacionalidad Cubana y sus departamentos han fortalecido su papel rector y el nivel de integración con organismos, organizaciones y otros grupos de la sociedad cubana, implementado una política de investigación y difusión de la historia regional, así como la preservación de su patrimonio documental, alcanzando que la población obtenga un mayor grado de aprobación de los valores identitarios e historiográficos y ser parte en la esfera de la defensa de la identidad regional. </p>
+                    <p>
+                        La Casa de la Nacionalidad Cubana y sus departamentos han fortalecido su papel rector en la esfera de las investigaciones relacionadas con la identidad y la nacionalidad cubanas; preserva el patrimonio documental que posee, promueve y defiende el patrimonio histórico cultural regional y nacional. Sostiene una efectiva colaboración con otras instituciones nacionales y extranjeras en su esfera profesional. Cuenta para ello con un colectivo de excelencia con elevada preparación académica y científica.
+                    </p>
 
                     <h2 class="text-red">Datos de contacto</h2>
                     <ul>

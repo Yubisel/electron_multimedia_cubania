@@ -93,6 +93,11 @@
                             <em>Investigadora de la Casa de la Nacionalidad Cubana.</em>
                             <hr>
                         </li>
+                        <li>
+                            <h3>Coordinadora General de la publicación: <span class="text-red">M. Sc. Damiana N. Pérez Figueredo</span></h3>
+                            <em>Directora de la Casa de la Nacionalidad Cubana.</em>
+                            <hr>
+                        </li>
                     </ul>
                     <h2 class="text-red">Miembros: </h2>
                     <ul>
@@ -114,6 +119,9 @@
                 </div>
                 <div :class="{'hidden' : c_menu!=2 }">
                     <h2 class="text-red">Notas de los Organizadores</h2>
+                    <p>La publicación Memorias de Crisol, volumen VIII, que a continuación se presenta en soporte digital, es el resultado del quehacer científico del evento teórico Crisol de la Nacionalidad Cubana, en su edición XXVII. Este espacio es organizado cada año por la Casa de la Nacionalidad Cubana en los días del 17 al 20 de octubre y convoca a la celebración de la jornada de la Fiesta de la Cubanía, en ocasión de conmemoración del Día de la Cultura Cubana.</p>
+                    <p>Luego de cinco años de ausencia, reaparece esta importante publicación que se integra a las ediciones anteriores de forma impresa. Una breve reseña de la Casa, el programa científico del evento y  los trabajos presentados, galería de imágenes,  convocatoria, son parte de los contenidos que en ella se encuentran.</p>
+
                     <p>
                         El Comité Organizador del XXVII Evento Crisol de la Nacionalidad Cubana 2018 declara que los autores de las ponencias presentadas en cada uno de los paneles, son responsables de los textos científicos entregados. Las correcciones realizadas a los textos expuestos en este soporte, no contemplaron las ponencias presentadas.
                     </p>
